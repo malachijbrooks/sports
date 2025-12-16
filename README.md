@@ -1,5 +1,1 @@
-### 2025
-
-[![Watch the video](https://img.youtube.com/vi/z-8h6_3rsCO/0.jpg)](https://youtu.be/z-8h6_3rsCO)
-
-### [Basketball Season 1 - K5](https://youtu.be/z-8h6_3rsCO)
+### • [*2024*](https://github.com/malachijbrooks/sports/edit/kungfu-2024/README.md)</br> • [*2025*](https://github.com/malachijbrooks/sports/edit/kungfu-2025/README.md)</br> • [*2026*](https://github.com/malachijbrooks/sports/edit/kungfu-2026/README.md)
