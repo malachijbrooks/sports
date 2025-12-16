@@ -5,4 +5,4 @@
 ### [Malachi - First Year Swimming (2024)](https://youtu.be/B2vMHL-S_Oc)
 
 
-![Image]()
+![Image](https://github.com/malachijbrooks/sports/blob/swimming-2024/Malachi%20-%20Swimming%20Gear.jpg)
