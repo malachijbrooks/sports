@@ -1,6 +1,7 @@
-### Click Header Image or Project Title to Watch The Video
+### Click Header Image or Video Title to Watch The Video
 
 [![Watch the video](https://img.youtube.com/vi/z-8h6_3rsC0/maxresdefault.jpg)](https://youtu.be/z-8h6_3rsC0)
+
 ### [Malachi - Yellow Belt Exam 1](https://youtu.be/z-8h6_3rsC0)
 
 
@@ -13,7 +14,7 @@
 
 ![Image](https://github.com/malachijbrooks/sports/blob/kungfu-2025/Malachi%20-%20Yellow%20Belt.jpg)
 
-### Click Header Image or Project Title to Watch The Video
+### Click Header Image or Video Title to Watch The Video
 
 [![Watch the video](https://img.youtube.com/vi/YwRoHl0-6PM/maxresdefault.jpg)](https://youtu.be/YwRoHl0-6PM)
 
@@ -29,7 +30,7 @@
 ![Image](https://github.com/malachijbrooks/sports/blob/kungfu-2025/Malachi%20-%20Green%20Belt.jpg)
 
 
-### Click Header Image or Project Title to Watch The Video
+### Click Header Image or Video Title to Watch The Video
 
 [![Watch the video](https://img.youtube.com/vi/Gb45_olHz-o/maxresdefault.jpg)](https://youtu.be/Gb45_olHz-o)
 
