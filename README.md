@@ -1,1 +1,1 @@
-### • [*2024*](https://github.com/malachijbrooks/sports/edit/golf-2024/README.md)</br> • [*2025*](https://github.com/malachijbrooks/sports/edit/golf-2025/README.md)</br> • [*2026*](https://github.com/malachijbrooks/sports/edit/golf-2026/README.md)
+### • [*2024*](https://github.com/malachijbrooks/sports/blob/golf-2024/README.md)</br> • [*2025*](https://github.com/malachijbrooks/sports/blob/golf-2025/README.md)</br> • [*2026*](https://github.com/malachijbrooks/sports/blob/golf-2026/README.md)
